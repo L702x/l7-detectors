@@ -10,16 +10,8 @@ this smol script takes an input (string) and randomizes a number (with decimals)
 do not take this repo seriously and this is purley for the fun of it
 
 
----
-
-
-i might add a truth detector to it but idk
-
-
----
-
-
-TODO: nothing, just chill
+## TODO:
+1. truth detector
 
 
 ---
