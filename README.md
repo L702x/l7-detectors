@@ -1,5 +1,5 @@
-# lie-detector
--# simple lie detector
+# lie detector
+## simple lie detector
 ---
 ## Note: this lie detector **IS NOT** even a lie detector (ik genious)
 this smol script takes an input (string) and randomizes a number (with decimals) between 85 and 100
