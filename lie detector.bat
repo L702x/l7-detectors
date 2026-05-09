@@ -1,5 +1,6 @@
 :: (c) 2026 L702x
 :: Licensed under AGPLv3
+:: original github repo: https://github.com/L702x/lie-detector/
 
 @echo off
 :main
