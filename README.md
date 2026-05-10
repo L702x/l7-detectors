@@ -5,7 +5,7 @@
 ---
 
 
-## Note: these detectos **ARE NOT** even a detectors (ik genious)
+## Note: these detectors **ARE NOT** even a detectors (ik genious)
 these smol scripts take an input (string) and randomizes a number (with decimals) between 85 and 100
 do not take this repo seriously and this is purley for the fun of it
 
