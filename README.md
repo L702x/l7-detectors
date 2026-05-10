@@ -11,8 +11,9 @@ do not take this repo seriously and this is purley for the fun of it
 
 
 ## TODO:
-1. truth detector
-
+1. ~~truth detector~~
+2. knows / dosent know detector
+3. many more
 
 ---
 
