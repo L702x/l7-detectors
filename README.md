@@ -17,6 +17,8 @@ do not take this repo seriously and this is purley for the fun of it
 4. ~~rename repo~~
 5. migrate code to Golang
 6. fix bugs (too lazy)
+7. merge all scripts into one
+8. optimize
 
 **Help with the TODO by contributing!**
 ---
