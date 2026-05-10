@@ -19,6 +19,7 @@ do not take this repo seriously and this is purley for the fun of it
 6. fix bugs (too lazy)
 7. merge all scripts into one
 8. optimize
+9. add support for linux and macos
 
 **Help with the TODO by contributing!**
 ---
